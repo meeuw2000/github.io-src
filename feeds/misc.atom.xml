@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Blog anything and more .... - misc</title><link href="http://meeuw2000.github.io/" rel="alternate"></link><link href="http://meeuw2000.github.io/feeds/misc.atom.xml" rel="self"></link><id>http://meeuw2000.github.io/</id><updated>2010-10-03T10:20:00+02:00</updated><entry><title>My super title</title><link href="http://meeuw2000.github.io/my-super-title.html" rel="alternate"></link><published>2010-10-03T10:20:00+02:00</published><author><name>Andre</name></author><id>tag:meeuw2000.github.io,2010-10-03:/my-super-title.html/</id><summary type="html">&lt;p&gt;:modified: 2010-10-04 18:40
+:tags: thats, awesome
+:category: yeah
+:slug: my-super-post
+:authors: Andre
+:summary: Short version for index and feeds&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Advertisement :)&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href="https://nodeca.github.io/pica/demo/"&gt;pica&lt;/a&gt;&lt;/strong&gt; - high quality and fast image
+  resize in browser.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href="https://github.com/nodeca/babelfish/"&gt;babelfish&lt;/a&gt;&lt;/strong&gt; - developer friendly
+  i18n with plurals support and easy syntax.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;You will like those projects!&lt;/p&gt;
+&lt;hr&gt;
+&lt;h1&gt;h1 Heading 8-)&lt;/h1&gt;
+&lt;h2&gt;h2 Heading …&lt;/h2&gt;</summary></entry></feed>
